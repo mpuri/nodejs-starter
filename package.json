@@ -1,0 +1,14 @@
+{
+    "name": "nodejs-starter",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index",
+        "test": ""
+    },
+    "repository": "",
+    "author": "",
+    "license": "",
+    "dependencies": {}
+}
